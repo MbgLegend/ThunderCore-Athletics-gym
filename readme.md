@@ -2,7 +2,7 @@
 
 ThunderCore Athletics is your go-to fitness destination, featuring a clean and user-friendly website. With a simple UI/UX, it's designed to be easily accessible for everyone, regardless of their fitness experience. But it's not just about workouts – ThunderCore Athletics offers more.
 
-Hosted version: [ThunderCore Athletics]()
+Hosted version: [ThunderCore Athletics](https://mbglegend.github.io/ThunderCore-Athletics-gym/)
 
 Developed by: [Mohamad Ghalayini](https://github.com/MbgLegend)
 
