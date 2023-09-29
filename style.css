@@ -1351,6 +1351,9 @@ footer > div ul li:hover {
     .navbar ul {
         width: 100%;
     }
+    #contact .grid .input {
+        max-width: 350px:
+    }
 }
 
 @media (max-width: 300px) {
